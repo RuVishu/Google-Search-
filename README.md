@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Google Logo](Google-Logo.png)
-
 [![GitHub stars](https://img.shields.io/github/stars/RuVishu/Google-Search-?style=for-the-badge)](https://github.com/RuVishu/Google-Search-/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/RuVishu/Google-Search-?style=for-the-badge)](https://github.com/RuVishu/Google-Search-/network)
 [![GitHub issues](https://img.shields.io/github/issues/RuVishu/Google-Search-?style=for-the-badge)](https://github.com/RuVishu/Google-Search-/issues)
